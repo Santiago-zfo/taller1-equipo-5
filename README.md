@@ -1,4 +1,25 @@
-# Equipo 5 - Git Masters
+# Equipo 5 - los hijos de Elon Musk
+
+## Descripción
+
+Taller 1 del Equipo 5 sobre Git y GitHub. El proyecto incluye una página HTML de ejemplo y las fichas de presentación del equipo. El taller sirve para practicar el trabajo colaborativo con ramas, issues, pull requests y resolución de conflictos.
+
+## Integrantes
+
+- Carlos Stiven Gutiérrez Ramírez — [@TheCarlosS5](https://github.com/TheCarlosS5)
+- Camilo Andrés Tamayo Durán — [@copito111](https://github.com/copito111)
+- Kevin Fernando Martínez Pérez — [@Fernando1658](https://github.com/Fernando1658)
+- Samuel Santiago Ramírez Fierro — [@Santiagopro23YT](https://github.com/Santiagopro23YT)
+- Santiago Ortiz Claros — [@Ortiz-png](https://github.com/Ortiz-png)
+
+## Cómo clonar el repositorio
+
+Abre una terminal y ejecuta estos comandos:
+
+```bash
+git clone https://github.com/TheCarlosS5/taller1-equipo-5.git
+cd taller1-equipo-5
+```
 
 ## Instrucciones del taller
 
